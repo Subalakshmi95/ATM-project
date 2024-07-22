@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ATM_TRY\bin\Debug\ATM_TRY.exe.config
+C:\Users\Admin\source\repos\ATM_TRY\bin\Debug\ATM_TRY.exe
+C:\Users\Admin\source\repos\ATM_TRY\bin\Debug\ATM_TRY.pdb
+C:\Users\Admin\source\repos\ATM_TRY\obj\Debug\ATM_TRY.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ATM_TRY\obj\Debug\ATM_TRY.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ATM_TRY\obj\Debug\ATM_TRY.exe
+C:\Users\Admin\source\repos\ATM_TRY\obj\Debug\ATM_TRY.pdb
